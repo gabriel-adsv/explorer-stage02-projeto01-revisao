@@ -13,7 +13,7 @@ Stage 02 - Introdução ao HTML e CSS (Projeto 01)<br>
 📌 Stacks: HTML | CSS
 
 💻Page view: 
-<div align="center"
+<div align="center">
 <img src="https://user-images.githubusercontent.com/61918927/209605423-553c3c63-92a2-42fd-ab00-bb2dfe20db46.jpg" "width="30px">
 </div>
 
