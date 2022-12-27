@@ -11,4 +11,10 @@ Stage 02 - Introdução ao HTML e CSS (Projeto 01)<br>
 ✅ Formatação de cores e fontes;<br>
 
 📌 Stacks: HTML | CSS
+
+💻Page view: 
+<div align="center"
+img src="https://desblogada.files.wordpress.co..." width="0px" /
+/div>
+
 <a href="https://gabriel-adsv.github.io/explorer-stage02-projeto01-revisao/" target="_blank">Acesse o exercicio aqui</a>
