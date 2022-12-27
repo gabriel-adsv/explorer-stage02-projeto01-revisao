@@ -17,4 +17,4 @@ Stage 02 - Introdução ao HTML e CSS (Projeto 01)<br>
 <img src="https://user-images.githubusercontent.com/61918927/209605423-553c3c63-92a2-42fd-ab00-bb2dfe20db46.jpg" "width="0px">
 </div>
 
-<a href="https://gabriel-adsv.github.io/explorer-stage02-projeto01-revisao/" target="_blank">Acesse o exercicio aqui</a>
+<a target="_blank" href="https://gabriel-adsv.github.io/explorer-stage02-projeto01-revisao/">Acesse o exercicio aqui</a>
